@@ -45,8 +45,8 @@ To run the project locally:
 ```bash 
  git clone https://github.com/akhtarhssn/virtual-reality.git
 ```
-5. Open the project in your favorite code editor.
-6. Launch the `index.html` file in your browser to preview the website.
+2. Open the project in your favorite code editor.
+3. Launch the `index.html` file in your browser to preview the website.
 
 ## Feedback and Issues
 
